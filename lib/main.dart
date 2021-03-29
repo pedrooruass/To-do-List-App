@@ -1,6 +1,6 @@
-// permitir o editar
+// FEITO - permitir o editar
 // FEITO - apagar
-// banco de dados
+// FEITO(Localmente) - banco de dados
 
 import 'dart:convert';
 import 'dart:io';
